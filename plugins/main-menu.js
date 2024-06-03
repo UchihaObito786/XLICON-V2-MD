@@ -21,25 +21,28 @@ import {
 *REMEMBER THIS BOT IS FOR*
 *EDUCATIONAL PERPOSES*
 ⍟────────────────⍟
-*©Salman Ahmand*
+*©*ੈ✩₊˚𝗢𝗯𝗶𝘁𝗼 𝗨𝗰𝗵𝗶𝗵𝗮ྀ࿐*
 ⍟────────────────⍟
-*_Konnichiwa! Its XLICON-MD A_* 
+*_Konnichiwa! Its OBITO-MD A_* 
 *_Multi-Device Whatsapp BOT_*
-*_Recoded By Salman Ahmad And Abraham Dwamena_*
+*_Recoded By *ੈ✩₊˚𝗢𝗯𝗶𝘁𝗼 𝗨𝗰𝗵𝗶𝗵𝗮ྀ࿐_*
 ⍟────────────────⍟
                                     
- ▀▄▀ █░░ █ █▀▀ █▀█ █▄░█  
- █░█ █▄▄ █ █▄▄ █▄█ █░▀█  
-          
- █▀▄▀█ █▀▄
- █░▀░█ █▄▀
+ 
+▒█▀▀▀█ ▒█▀▀█ ▀█▀ ▀▀█▀▀ ▒█▀▀▀█ 
+▒█░░▒█ ▒█▀▀▄ ▒█░ ░▒█░░ ▒█░░▒█ 
+▒█▄▄▄█ ▒█▄▄█ ▄█▄ ░▒█░░ ▒█▄▄▄█ 
+
+▒█▀▀█ ▒█▀▀▀█ ▀▀█▀▀ 
+▒█▀▀▄ ▒█░░▒█ ░▒█░░ 
+▒█▄▄█ ▒█▄▄▄█ ░▒█░░
  
 ╭─────────────────⦿
 ┃    🔰〘 𝙄𝙉𝙁𝙊 〙🔰
 ╰┬────────────────⦿
 ┌┤
 ┃
-┃ *_Founder_*: Salman Ahmad 
+┃ *_Founder_*: *ੈ✩₊˚𝗢𝗯𝗶𝘁𝗼 𝗨𝗰𝗵𝗶𝗵𝗮ྀ࿐ 
 ┃ *_Bot Name_*: ${botname}
 ┃ *_Mode_*: %mode
 ┃ *_HOST_*: kali Linix
@@ -57,7 +60,7 @@ import {
 ┃
 ┃ *_Name_*: %name
 ┃ *_Gold_*: %credit
-┃ *_Role_*: XLICON-MD-TESTER
+┃ *_Role_*: OBITO-MD-TESTER
 ┃ *_Level_*: %level [ %xp4levelup Xp For Levelup]
 ┃ *_Xp_*: %exp / %maxexp
 ┃ *_Total Xp_*: %totalexp
