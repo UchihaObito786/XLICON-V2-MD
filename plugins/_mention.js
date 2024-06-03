@@ -8,12 +8,12 @@
 
 let handler = m => m
 handler.all = async function (m, conn) {
-    var vn = "./Assets/ALIVE.mp3"
-    let url = "https://github.com/salmanytofficial"
-    let murl = "https://www.instagram.com/ahmmikun/"
+    var vn = "https://i.imgur.com/7sVD83T.mp4"
+    let url = "https://chat.whatsapp.com/KWAadDw545X2Re1F6RjjEz"
+    let murl = "https://instagram.com/_.obito_uchiha_786"
     let hash = global.botname
-    let img = "https://i.imgur.com/kQJHMAe.jpg"
-    let num = ["923184070915","923184474176","233533763772","94789481495","233508488192"]
+    let img = "https://i.imgur.com/Qfmbvnt.jpg"
+    let num = ["918101821810","","","",""]
 
     let doc = {
         audio: {
@@ -22,7 +22,7 @@ handler.all = async function (m, conn) {
         mimetype: 'audio/mpeg',
         ptt: true,
         waveform: [0,99,0,99,0,99,0],
-        fileName: "Guru",
+        fileName: "*ੈ✩₊˚𝗢𝗯𝗶𝘁𝗼 𝗨𝗰𝗵𝗶𝗵𝗮ྀ࿐",
     
         contextInfo: {
           mentionedJid: [m.sender],
